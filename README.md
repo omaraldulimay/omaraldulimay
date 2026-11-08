@@ -15,4 +15,3 @@ Software developer in Hamburg. I build backends, data pipelines and e-commerce s
 
 **Tools I use:** Java · Spring Boot · Python · FastAPI · TypeScript · React Native · PostgreSQL · Kafka · dbt · Docker · Kubernetes · Terraform · GitHub Actions
 
-Background in fashion e-commerce with Shopify and Plentymarkets. I speak German, English, Arabic and Spanish.
